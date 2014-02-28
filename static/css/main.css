@@ -1,0 +1,6 @@
+html{min-width:100%;helght:100%;min-height:100%}
+body{margin:20px;padding:0;font-family:"Helvetica Neue",Arial,sans-serif;color:#02243c}
+h1{font-size:42px;margin-left:15px}
+.sidegrid{stroke:#02243c;stroke-width:4px}
+.innergrid{stroke:#e6e6e6}
+rect{shape-rendering:crispEdges;fill:#5195ce}
